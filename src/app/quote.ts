@@ -1,3 +1,4 @@
+// Class constructor.
 export class Quote {
   public upvotes:number
   public downvotes:number
