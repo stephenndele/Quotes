@@ -9,7 +9,8 @@ import { Quote } from '../quote';
 export class QuoteComponent implements OnInit {
   quotes = [
     new Quote("STN", "Stephen Ndele", "Life is sweet when you do not copy others."),
-    new Quote("KIM", "Major", "Follow the light and you shall see life ")
+    new Quote("KIM", "Major", "Follow the light and you shall see life "),
+    new Quote("R", "King", "Doing what you love is life")
   ]
     
 
