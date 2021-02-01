@@ -1,6 +1,8 @@
-
+body{
+  overflow: scroll !important;
+}
 .intro-header {
-  height: unset !important;
+  // height: unset !important;
 }
 .intro-2 {
   background: url("https://unsplash.com/photos/TDbtNPn5Ynw/download")no-repeat center center;
@@ -28,14 +30,14 @@
 }
 
 .md-form .prefix {
-  font-size: 1.5rem;
+  font-size: 1rem;
   margin-top: 1rem;
 }
 .md-form label {
   color: #ffffff;
 }
 h6 {
-  line-height: 1.7;
+  line-height: 1.4;
 }
 @media (max-width: 740px) {
   .full-height,

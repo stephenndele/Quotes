@@ -1,5 +1,8 @@
+body{
+  overflow-y: scroll;
+}
 .intro-header {
-  height: unset !important;
+  // height: unset !important;
 }
 .intro-2 {
   background: url("https://unsplash.com/photos/TDbtNPn5Ynw/download")no-repeat center center;
